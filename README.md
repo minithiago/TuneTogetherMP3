@@ -18,7 +18,7 @@ Then open **http://localhost:3000** in your browser.
 Friends on the same network open:
 
 ```
-http://192.168.18.71:3000
+http://192.XXX.XX.XX:3000
 ```
 
 (That's this machine's current local IP — re-check with `ipconfig` if it changes.)
