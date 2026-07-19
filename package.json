@@ -1,0 +1,14 @@
+{
+  "name": "tunetogether-2k",
+  "version": "1.0.0",
+  "description": "Listen to music with friends — synced playback, shared rooms, live chat (Y2K vibes).",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
